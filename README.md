@@ -129,12 +129,6 @@ Future work should explore more sophisticated oversampling strategies, investiga
 
 ---
 
-## License
-
-MIT License (if applicable). Please replace this with your actual license.
-
----
-
 ## Acknowledgments
 
 - [Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)  
